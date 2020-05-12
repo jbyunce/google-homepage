@@ -1,0 +1,1 @@
+For this mini-project, I'll be deconstructing and reconstructing a website
